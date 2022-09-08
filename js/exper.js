@@ -22,7 +22,7 @@ const experience = [
         from: 'Aug 2021',
         to: 'Current',
         rol: 'Develop Project | Data Business',
-        img: 'LINK.jpg',
+        img: 'Link.JPG',
         tasks: [`Project develop on NodeJS, hbs, MongoDB`, `Main Target: Central Data Information`
         ]
     },
