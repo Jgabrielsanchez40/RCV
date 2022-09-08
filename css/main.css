@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+  }
+  
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Open Sans Condensed', sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f5;
+    color: rgb(48, 47, 47);
+  }
+
+  .header {
+    width: 100%;
+    background: #2e5cb8;
+    padding: 1.5%;
+}
+
+ .infoBox {
+    margin-top: -0.8rem;
+    margin-left: 3%;
+    margin-right: 3%;
+    background: #e6e6e6;
+    font-size: 20px;
+    color: #2e5cb8;
+    box-shadow: 0 3px;
+    text-align: center;
+    margin-bottom: 3%;
+    border-radius: 10px 0 10px 0;
+  }
+
+.cbody {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-gap: 20px;
+   
+}
+
+.skill {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-gap: 20px;
+}
+
+
+.cbody,
+.expe,
+.skill {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+ .container {
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    text-align: left;
+    box-sizing: border-box;
+    margin-left: 3%;
+  }
+
+  .card {
+    padding: 10px;
+    margin: 12px;
+    margin-top: 30px;
+    background: #f2f2f2;
+    border-radius: 8px;
+    box-shadow: 2px 4px 15px #5c618f1f;
+   }
+  
+   .card:hover {
+    box-shadow: 2px 8px 45px rgba(12, 32, 216, 0.322);
+    transform: translate3D(0px, -16px, 0);
+  }
+ 
+  h1 {
+    text-align: justify;
+    padding:  3px;
+    background-color: #2e5cb8;
+    margin: -1.8rem 0 2rem 0;
+    font-size: 13px;
+    color: white;
+    border-radius: 8px;
+  }
+
+  .text {
+    padding: 5px;
+    background-color: #d1cece;;
+    border-radius: 10px 0 10px 0;
+    text-decoration-line: none;
+ }
+
+ .img {
+    width: 400px;
+    height: 300px;
+    border-radius: 10px 0 10px 0;
+ }
+
+ @media (max-width: 500px) {
+    .infoBox {
+        font-size: 10px;
+        padding: 1%;
+    }
+
+    .cbody,
+    .skill {
+        display:block;
+    }
+
+    .img {
+        width: 250px;
+        height: 150px;
+    }
+     
+ }
+
+   
