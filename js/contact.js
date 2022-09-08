@@ -8,7 +8,7 @@ const PersonelInfo = [
     state: "Monagas",
     email: "jgabrielsanchez40@gmail.com",
     linkedin: "https://www.linkedin.com/in/jose-gabriel-sanchez-236a6a60/",
-    gitHub: "https://github.com/Jgabrielsanchez40",
+    gitHub: "https://github.com/Jgabrielsanchez400",
     address: "https://jgabrielsanchez40.github.io/RCV/"
   }
 ]
