@@ -10,7 +10,7 @@ const experience = [
     },
     {
         company: 'Freelance',
-        from: 'Aug 2022',
+        from: 'Aug 2021',
         to: 'Sept 2022',
         rol: 'Develop Project | Data Business',
         img: 'TS.jpg',
@@ -20,7 +20,7 @@ const experience = [
     {
         company: 'Freelance',
         from: 'Aug 2021',
-        to: 'Current',
+        to: 'Sept 2022',
         rol: 'Develop Project | Data Business',
         img: 'Link.jpg',
         tasks: [`Project develop on NodeJS, React, and MySQL`, `Main Target: Share Link Information`
@@ -29,7 +29,7 @@ const experience = [
     {
         company: 'Freelance',
         from: 'Aug 2021',
-        to: 'Current',
+        to: 'Sept 2022',
         rol: 'Develop Project | Data Business',
         img: 'MYRCV.jpg',
         tasks: [`Project develop on NodeJS, hbs, MongoDB`, `Main Target: Central Data Information`
@@ -38,7 +38,7 @@ const experience = [
     {
         company: 'Schlumberger',
         from: 'May 2017',
-        to: 'Agus 2020',
+        to: 'Aug 2020',
         rol: 'VEN Leader Facility Administrator',
         img: 'MOR.jpg',
         tasks: [`Administraty (Business Data Analytics): Cost Control, Forecast Cost, Distribution Cost, Consolidation
