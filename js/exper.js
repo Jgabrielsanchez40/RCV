@@ -1,8 +1,17 @@
 const experience = [
     {
+        company: 'Panthers Corporation',
+        from: 'Sept 2022',
+        to: 'Jan 2023',
+        rol: 'IT Coordinator',
+        img: 'ITTicket.png',
+        tasks: [`Management of IT Corporation Project`, `Research and Planned on Automation System`, `365 Administrator`, `Develop IT Systems`
+        ]
+    },
+    {
         company: 'Freelance',
-        from: 'Aug 2021',
-        to: 'Current',
+        from: 'Aug 2022',
+        to: 'Sept 2022',
         rol: 'Develop Project | Data Business',
         img: 'TS.jpg',
         tasks: [`Project for Admin and Control Taxi Request`, `Main Target: Control Cost, request consolidation`, `Develop on SharePoint Platform`
@@ -13,7 +22,7 @@ const experience = [
         from: 'Aug 2021',
         to: 'Current',
         rol: 'Develop Project | Data Business',
-        img: 'MYRCV.jpg',
+        img: 'Link.jpg',
         tasks: [`Project develop on NodeJS, React, and MySQL`, `Main Target: Share Link Information`
         ]
     },
@@ -22,7 +31,7 @@ const experience = [
         from: 'Aug 2021',
         to: 'Current',
         rol: 'Develop Project | Data Business',
-        img: 'LINK.jpg',
+        img: 'MYRCV.jpg',
         tasks: [`Project develop on NodeJS, hbs, MongoDB`, `Main Target: Central Data Information`
         ]
     },
