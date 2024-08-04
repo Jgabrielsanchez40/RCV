@@ -9,13 +9,13 @@
     -moz-osx-font-smoothing: grayscale;
     font-family: 'Open Sans Condensed', sans-serif;
     line-height: 1.6;
-    background-color: #f0f0f5;
+    background-color: #fff;
     color: rgb(48, 47, 47);
   }
 
   .header {
     width: 100%;
-    background: #2e5cb8;
+    background: #1e489b;
     padding: 1.5%;
 }
 
