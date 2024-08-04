@@ -1,6 +1,5 @@
 const skill = [
-        "Leader Group",
-        "Management",
+        "Methodologies: SCRUM, Agile, ITIL",
         "Work Pressure",
         "Planner, Logistic",
         "Vision Target",

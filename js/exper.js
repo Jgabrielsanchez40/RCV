@@ -1,5 +1,20 @@
 const experience = [
     {
+        company: 'SinoEnergy Corporation',
+        from: 'Aug 2023',
+        to: 'Now',
+        rol: 'Applications Coordinator',
+        tasks: [`Evaluation and Planning`, `Implemented new technologies, containers`, `High Performance on DB`, `High Security Performance`, `Hand files`, `Cost Control`
+        ]
+    },
+    {
+        company: 'SinoEnergy Corporation',
+        from: 'May 2023',
+        to: 'Aug 2023',
+        rol: 'IT Coordinator',
+        tasks: [`Implemented Security Standards`, `Implemented high performance in  infraestuctured`]
+    },
+    {
         company: 'Panthers Corporation',
         from: 'Sept 2022',
         to: 'Jan 2023',
